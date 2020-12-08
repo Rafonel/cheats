@@ -6,6 +6,8 @@ Some things I can't forget
 - [JsFiddle](https://jsfiddle.net) - seems good to test js
 - [Repl.it](https://repl.it) - yeah here you can code wtf u want
 
+### Js
+- [Ts cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/#table-of-contents) - some Typescript helper
 
 ### Fonts
 - [Google Fonts](https://fonts.google.com/) - I kinda use this sometimes...

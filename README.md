@@ -34,6 +34,9 @@ Some things I can't forget
 - [Optimizilla](https://imagecompressor.com) - online image compressor
 - [Input types](https://inputtypes.com) - html inputs tester
 
+### Learn
+- [Some free books](https://www.manning.com/catalog)
+
 ### Fun
 - [Itch.io](https://itch.io) - indie games
 - [IGG Games](https://igg-games.com) - open source games....

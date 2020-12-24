@@ -8,17 +8,23 @@ Some things I can't forget
 
 ### Js
 - [Ts cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/#table-of-contents) - some Typescript helper
+- [Push.js](https://pushjs.org/) - Notifications in system
 
 ### Fonts
 - [Google Fonts](https://fonts.google.com/) - I kinda use this sometimes...
 - [Type Detail](https://play.typedetail.com) - test fonts
+
 ### CSS
 - [Bennett Feely](https://bennettfeely.com) - some CSS shortcuts, this guy is top, my fav is Clippy
 - [CSS Gradient.io](https://cssgradient.io) - gradient generator
+- [GRID Malven](https://grid.malven.co/) - css grid cheatsheet
+- [Flexbox Malven](https://flexbox.malven.co/) - css flex cheatsheet
+
 ### Design
 - [Creative Beacon](https://creativebeacon.com) - a web design blog
 - [Designerd](https://www.designerd.com.br) - a braziliam design blog
 - [Blurgraphic](https://www.blugraphic.com) - photoshop files
+
 ### Colors
 - [Color Hexa](https://www.colorhexa.com) - the best color picker, dude.
 - [Paletton](http://www.paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) that's good for make palletes
@@ -28,7 +34,6 @@ Some things I can't forget
 
 ### Icons
 - [Ionicons](https://ionicons.com) - icons from Ionic
-
 
 ### HTML helpers
 - [Optimizilla](https://imagecompressor.com) - online image compressor

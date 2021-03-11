@@ -48,5 +48,6 @@ Some things I can't forget
 - [Erai Raws](https://pt.erai-raws.info/anime-list/) - anime download
 - [Nuuvem](https://www.nuuvem.com) - acessible Steam games
 
-### Etc
+### Utils
 - [YT Cutter](https://ytcutter.com) - youtube videos cutter
+- [Rocketseat Terminal](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/) - custom linux terminal with dracula / omzsh / spaceship / fira-font 
